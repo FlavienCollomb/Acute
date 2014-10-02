@@ -8,7 +8,7 @@ Acute
 Moreover, it implements new ECMA methods of Array.prototype to improve cross-browser comptability and override the Object to have similar methods.
 
 ##Getting Started
-To use `Acute` in your website, simply drop the stylesheet into your document's <script>.
+To use `Acute` in your website, simply drop the stylesheet into your document's "script".
 
 ##Dependencies
 jQuery
